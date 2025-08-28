@@ -1,4 +1,4 @@
 Make sure astro folder is called astro not _astro
 Change references to astro folder throughout the code
-Add <base href="/Northeast-Removal-Services.github.io/"> to head in all html files
+Add <base href="https://benmulligan4.github.io/Northeast-Removal-Services.github.io/"> to head in all html files
 Remove . from reference to light SVG Logo
